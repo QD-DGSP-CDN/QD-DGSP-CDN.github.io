@@ -1,31 +1,58 @@
 {
   "store": [
     {
-      "title": "Drogaria São Paulo",
-      "address": "Alameda Rio Negro, 877 - Alphaville Comercial, Barueri - SP, 06454-000",
-      "phone": "(11) 4003-3393",
-      "latitude": -23.4982474,
-      "longitude": -46.8488287,
-      "attendance": "Todos os dias: 24h00",
+      "title": "Drogaria São Paulo Alphaville II",
+      "address": "Alameda Araguaia, 451 - Alphaville Industrial, Barueri - SP, 06455-000",
+      "phone": "(11) 4326-5209 / (11) 4326-5230",
+      "latitude": -23.4976993,
+      "longitude": -46.8570868,
+      "attendance": "Todos os dias: 07:00hs às 23:00hs",
       "logistics": "Retire na loja - Alphaville"
     },
     {
-      "title": "Drogaria São Paulo 24h",
-      "address": "Av. Braz Leme, 2.034 , Santana",
+      "title": "Drogaria São Paulo Braz Leme 24hs",
+      "address": "Av. Braz Leme, 2.034 - Santana, São Paulo - SP, 02022-020",
       "phone": "(11) 2973-6508 / (11) 2976-0083",
-      "latitude": -23.5047496,
-      "longitude": -46.6406438,
+      "latitude": -23.504589,
+      "longitude": -46.6406056,
       "attendance": "Todos os dias: 24h00",
       "logistics": "Retire na loja - Braz Leme"
     },
     {
-      "title": "Drogaria São Paulo - Shopping Tamboré I",
-      "address": "Av. Giovanni Gronchi, 5.471 , Morumbi São Paulo, SP 05724-003",
+      "title": "Drogaria São Paulo Rubem Berta 24hs",
+      "address": "Av. Jandira, 1.002 - Indianópolis, São Paulo - SP, 04080-005",
+      "phone": "(11) 5055-2569 / (11) 5055-2432",
+      "latitude": -23.6115747,
+      "longitude": -46.6567997,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Rubem Berta"
+    },
+    {
+      "title": "Drogaria São Paulo Morumbi 24hs",
+      "address": " Av. Giovani Gronchi, 5.471 - Morumbi, São Paulo - SP, 05724-003",
       "phone": "(11) 3744-2058 / (11) 3746-7448",
-      "latitude": -23.6274618,
-      "longitude": -46.735458,
+      "latitude": -23.6273949,
+      "longitude": -46.73562,
       "attendance": "Todos os dias: 24h00",
       "logistics": "Retire na loja - Morumbi"
+    },
+    {
+      "title": "Drogaria São Paulo Trianon 24hs",
+      "address": "Av. Paulista, 1.227 - Loja 01 - Bela Vista, São Paulo - SP, 01311-200",
+      "phone": "(11) 3288-8061 / (11) 3289-4182",
+      "latitude": -23.563884,
+      "longitude": -46.6537776,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Trianon"
+    },
+    {
+      "title": "Drogaria São Paulo Roberto Marinho 24hs",
+      "address": " Rua Zacarias de Gois, 632 - Loja 02 - Parque Colonial, São Paulo - SP, 04610-001",
+      "phone": "(11) 5533-0885 / (11) 5533-0875",
+      "latitude": -23.6275141,
+      "longitude": -46.6755701,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Roberto Marinho"
     }
   ]
 }
