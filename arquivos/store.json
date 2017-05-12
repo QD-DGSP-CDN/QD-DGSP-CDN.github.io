@@ -29,7 +29,7 @@
     },
     {
       "title": "Drogaria São Paulo Morumbi 24hs",
-      "address": " Av. Giovani Gronchi, 5.471 - Morumbi, São Paulo - SP, 05724-003",
+      "address": "Av. Giovani Gronchi, 5.471 - Morumbi, São Paulo - SP, 05724-003",
       "phone": "(11) 3744-2058 / (11) 3746-7448",
       "latitude": -23.6273949,
       "longitude": -46.73562,
@@ -47,12 +47,57 @@
     },
     {
       "title": "Drogaria São Paulo Roberto Marinho 24hs",
-      "address": " Rua Zacarias de Gois, 632 - Loja 02 - Parque Colonial, São Paulo - SP, 04610-001",
+      "address": "Rua Zacarias de Gois, 632 - Loja 02 - Parque Colonial, São Paulo - SP, 04610-001",
       "phone": "(11) 5533-0885 / (11) 5533-0875",
       "latitude": -23.6275141,
       "longitude": -46.6755701,
       "attendance": "Todos os dias: 24h00",
       "logistics": "Retire na loja - Roberto Marinho"
+    },
+    {
+      "title": "Drogaria São Paulo Tatuapé 24hs",
+      "address": "Rua Apucarana, 999 - Tatuapé, São Paulo - SP, 03311-000",
+      "phone": "(11) 2296-2023 / (11) 2225-2756",
+      "latitude": -23.5468838,
+      "longitude": -46.5632254,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Tatuape"
+    },
+    {
+      "title": "Drogaria São Paulo Higienópolis 24hs",
+      "address": "Av. Angélica, 1.465/1.475 - Consolação, São Paulo - SP, 01227-100",
+      "phone": "(11) 3667-6291 / (11) 3666-0181",
+      "latitude": -23.5455305,
+      "longitude": -46.6576487,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Higienopolis"
+    },
+    {
+      "title": "Drogaria São Paulo Bairro Assunção 24hs",
+      "address": "Av. João Firmino, 1000 - complemento 133 - Assunção - São Bernardo do Campo - SP, 09810-250",
+      "phone": "(11) 3380-6881 / (11) 4942-3934",
+      "latitude": -23.7219839,
+      "longitude": -46.5676435,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Bairro Assunção"
+    },
+    {
+      "title": "Drogaria São Paulo Pompéia 24hs",
+      "address": "Av. Pompéia, 390 - Vila Pompéia - São Paulo - SP, 05022-000",
+      "phone": "(11) 3672-1952 / (11) 3672-9315",
+      "latitude": -23.5283376,
+      "longitude": -46.6837024,
+      "attendance": "Todos os dias: 24h00",
+      "logistics": "Retire na loja - Pompéia"
+    },
+    {
+      "title": "Drogaria São Paulo Vila Formosa",
+      "address": "Av. Renata, 60 - Chácara Belenzinho - São Paulo - SP, 03377-000",
+      "phone": "(11) 2116-4325 / (11) 2116-6323",
+      "latitude": -23.5708384,
+      "longitude": -46.5404143,
+      "attendance": "Todos os dias: 07:00hs às 23:00hs",
+      "logistics": "Retire na loja - Vila Formosa"
     }
   ]
 }
